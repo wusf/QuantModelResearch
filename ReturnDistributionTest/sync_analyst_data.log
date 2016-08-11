@@ -1,0 +1,1116 @@
+[2016-07-14 17:31:54|sync_analyst_data|] Initiate class QuantLib
+[2016-07-14 17:34:59|sync_analyst_data|] Initiate class QuantLib
+[2016-07-14 17:34:59|sync_analyst_data|] Initiate class ''FetchHistData
+[2016-07-14 17:35:30|sync_analyst_data|] Initiate class QuantLib
+[2016-07-14 17:35:30|sync_analyst_data|] Initiate class ''FetchHistData
+[2016-07-14 17:37:57|sync_analyst_data|] Initiate class QuantLib
+[2016-07-14 17:37:57|sync_analyst_data|] Initiate class ''FetchHistData
+[2016-07-14 17:38:32|sync_analyst_data|] Initiate class QuantLib
+[2016-07-14 17:38:32|sync_analyst_data|] Initiate class ''FetchHistData
+[2016-07-14 17:38:32|sync_analyst_data|] Connect to local raw database
+[2016-07-14 17:40:59|sync_analyst_data|] Initiate class QuantLib
+[2016-07-14 17:40:59|sync_analyst_data|] Initiate class ''FetchHistData
+[2016-07-14 17:40:59|sync_analyst_data|] Connect to local raw database
+[2016-07-14 17:41:19|sync_analyst_data|] Initiate class QuantLib
+[2016-07-14 17:41:19|sync_analyst_data|] Initiate class ''FetchHistData
+[2016-07-14 17:41:19|sync_analyst_data|] Connect to local raw database
+[2016-07-14 17:41:33|sync_analyst_data|] Initiate class QuantLib
+[2016-07-14 17:41:33|sync_analyst_data|] Initiate class ''FetchHistData
+[2016-07-14 17:41:33|sync_analyst_data|] Connect to local raw database
+[2016-07-14 17:42:10|sync_analyst_data|] Initiate class QuantLib
+[2016-07-14 17:42:10|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-14 17:42:10|sync_analyst_data|] Connect to local raw database
+[2016-07-14 17:45:26|sync_analyst_data|] Initiate class QuantLib
+[2016-07-14 17:45:26|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-14 17:45:26|sync_analyst_data|] Connect to local raw database
+[2016-07-14 17:45:49|sync_analyst_data|] Initiate class QuantLib
+[2016-07-14 17:45:49|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-14 17:45:49|sync_analyst_data|] Connect to local raw database
+[2016-07-14 18:31:19|sync_analyst_data|] Initiate class QuantLib
+[2016-07-14 18:31:19|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-14 18:31:19|sync_analyst_data|] Connect to local raw database
+[2016-07-14 18:31:48|sync_analyst_data|] Initiate class QuantLib
+[2016-07-14 18:31:48|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-14 18:31:48|sync_analyst_data|] Connect to local raw database
+[2016-07-14 18:35:37|sync_analyst_data|] Initiate class QuantLib
+[2016-07-14 18:35:37|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-14 18:35:37|sync_analyst_data|] Connect to local raw database
+[2016-07-14 18:47:36|sync_analyst_data|] Initiate class QuantLib
+[2016-07-14 18:47:36|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-14 18:47:36|sync_analyst_data|] Connect to local raw database
+[2016-07-15 11:31:44|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 11:31:44|sync_analyst_data|] Connect to local raw database
+[2016-07-15 11:32:02|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 11:32:02|sync_analyst_data|] Connect to local raw database
+[2016-07-15 11:32:32|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 11:32:32|sync_analyst_data|] Connect to local raw database
+[2016-07-15 11:32:56|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 11:32:56|sync_analyst_data|] Connect to local raw database
+[2016-07-15 11:33:06|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 11:33:06|sync_analyst_data|] Connect to local raw database
+[2016-07-15 11:33:53|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 11:33:53|sync_analyst_data|] Connect to local raw database
+[2016-07-15 11:36:25|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 11:36:25|sync_analyst_data|] Connect to local raw database
+[2016-07-15 11:36:37|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 11:36:37|sync_analyst_data|] Connect to local raw database
+[2016-07-15 11:36:51|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 11:36:51|sync_analyst_data|] Connect to local raw database
+[2016-07-15 11:37:33|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 11:37:33|sync_analyst_data|] Connect to local raw database
+[2016-07-15 11:38:08|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 11:38:08|sync_analyst_data|] Connect to local raw database
+[2016-07-15 11:38:18|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 11:38:18|sync_analyst_data|] Connect to local raw database
+[2016-07-15 11:38:59|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 11:38:59|sync_analyst_data|] Connect to local raw database
+[2016-07-15 11:43:18|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 11:43:18|sync_analyst_data|] Connect to local raw database
+[2016-07-15 11:43:18|sync_analyst_data|] Cannot find security table ''
+[2016-07-15 11:43:43|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 11:43:43|sync_analyst_data|] Connect to local raw database
+[2016-07-15 11:43:43|sync_analyst_data|] Cannot find security table 'stock'
+[2016-07-15 11:43:57|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 11:43:57|sync_analyst_data|] Connect to local raw database
+[2016-07-15 11:43:57|sync_analyst_data|] Cannot find security type 'stock'
+[2016-07-15 11:44:27|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 11:44:27|sync_analyst_data|] Connect to local raw database
+[2016-07-15 11:44:27|sync_analyst_data|] Cannot find security type 'stock'
+[2016-07-15 14:06:34|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:06:34|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 14:06:34|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:06:34|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 14:06:34|sync_analyst_data|] Connect to local raw database
+[2016-07-15 14:06:51|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:06:51|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 14:06:51|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:06:51|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 14:06:51|sync_analyst_data|] Connect to local raw database
+[2016-07-15 14:06:51|sync_analyst_data|] Cannot find security type '20160104'
+[2016-07-15 14:08:14|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:08:14|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 14:08:14|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:08:14|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 14:08:14|sync_analyst_data|] Connect to local raw database
+[2016-07-15 14:08:14|sync_analyst_data|] Cannot find security type '20160104'
+[2016-07-15 14:09:15|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:09:15|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 14:09:15|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:09:15|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 14:09:15|sync_analyst_data|] Connect to local raw database
+[2016-07-15 14:10:15|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:10:15|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 14:10:15|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:10:15|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 14:10:15|sync_analyst_data|] Connect to local raw database
+[2016-07-15 14:11:07|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:11:07|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 14:11:07|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:11:07|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 14:11:07|sync_analyst_data|] Connect to local raw database
+[2016-07-15 14:11:39|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:11:39|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 14:11:39|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:11:39|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 14:11:39|sync_analyst_data|] Connect to local raw database
+[2016-07-15 14:12:23|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:12:23|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 14:12:23|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:12:23|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 14:12:23|sync_analyst_data|] Connect to local raw database
+[2016-07-15 14:12:38|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:12:38|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 14:12:38|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:12:38|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 14:12:38|sync_analyst_data|] Connect to local raw database
+[2016-07-15 14:15:06|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:15:06|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 14:15:06|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:15:06|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 14:15:06|sync_analyst_data|] Connect to local raw database
+[2016-07-15 14:15:45|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:15:45|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 14:15:45|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:15:45|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 14:15:45|sync_analyst_data|] Connect to local raw database
+[2016-07-15 14:16:03|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:16:03|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 14:16:03|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:16:03|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 14:16:03|sync_analyst_data|] Connect to local raw database
+[2016-07-15 14:16:29|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:16:29|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 14:16:29|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:16:29|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 14:16:29|sync_analyst_data|] Connect to local raw database
+[2016-07-15 14:18:10|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:18:10|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 14:18:10|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:18:10|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 14:18:10|sync_analyst_data|] Connect to local raw database
+[2016-07-15 14:18:55|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:18:55|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 14:18:55|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:18:55|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 14:18:55|sync_analyst_data|] Connect to local raw database
+[2016-07-15 14:19:29|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:19:29|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 14:19:29|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:19:29|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 14:19:29|sync_analyst_data|] Connect to local raw database
+[2016-07-15 14:19:50|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:19:50|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 14:19:50|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:19:50|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 14:19:50|sync_analyst_data|] Connect to local raw database
+[2016-07-15 14:25:40|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:25:40|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 14:25:40|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:25:40|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 14:25:40|sync_analyst_data|] Connect to local raw database
+[2016-07-15 14:26:16|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:26:16|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 14:26:16|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:26:16|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 14:26:16|sync_analyst_data|] Connect to local raw database
+[2016-07-15 14:27:02|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:27:02|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 14:27:02|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:27:02|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 14:27:02|sync_analyst_data|] Connect to local raw database
+[2016-07-15 14:27:33|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:27:33|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 14:27:33|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:27:33|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 14:27:33|sync_analyst_data|] Connect to local raw database
+[2016-07-15 14:27:48|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:27:48|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 14:27:48|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:27:48|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 14:27:48|sync_analyst_data|] Connect to local raw database
+[2016-07-15 14:42:13|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:42:13|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 14:42:13|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:42:13|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 14:42:13|sync_analyst_data|] Connect to local raw database
+[2016-07-15 14:43:02|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:43:02|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 14:43:02|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:43:02|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 14:43:02|sync_analyst_data|] Connect to local raw database
+[2016-07-15 14:43:14|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:43:14|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 14:43:14|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:43:14|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 14:43:14|sync_analyst_data|] Connect to local raw database
+[2016-07-15 14:43:55|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:43:55|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 14:43:55|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:43:55|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 14:43:55|sync_analyst_data|] Connect to local raw database
+[2016-07-15 14:44:30|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:44:30|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 14:44:30|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:44:30|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 14:44:30|sync_analyst_data|] Connect to local raw database
+[2016-07-15 14:46:24|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:46:24|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 14:46:24|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:46:24|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 14:46:24|sync_analyst_data|] Connect to local raw database
+[2016-07-15 14:48:01|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:48:01|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 14:48:01|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:48:01|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 14:48:01|sync_analyst_data|] Connect to local raw database
+[2016-07-15 14:49:36|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:49:36|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 14:49:36|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:49:36|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 14:49:36|sync_analyst_data|] Connect to local raw database
+[2016-07-15 14:49:55|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:49:55|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 14:49:55|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:49:55|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 14:49:55|sync_analyst_data|] Connect to local raw database
+[2016-07-15 14:54:02|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:54:02|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 14:54:02|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:54:02|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 14:54:02|sync_analyst_data|] Connect to local raw database
+[2016-07-15 14:56:37|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:56:37|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 14:56:37|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:56:37|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 14:56:37|sync_analyst_data|] Connect to local raw database
+[2016-07-15 14:57:37|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:57:37|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 14:57:37|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:57:37|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 14:57:37|sync_analyst_data|] Connect to local raw database
+[2016-07-15 14:58:16|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:58:16|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 14:58:16|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:58:16|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 14:58:16|sync_analyst_data|] Connect to local raw database
+[2016-07-15 14:59:00|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:59:00|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 14:59:00|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 14:59:00|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 14:59:00|sync_analyst_data|] Connect to local raw database
+[2016-07-15 15:04:23|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 15:04:23|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 15:04:23|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 15:04:23|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 15:04:23|sync_analyst_data|] Connect to local raw database
+[2016-07-15 15:05:12|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 15:05:12|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 15:05:12|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 15:05:12|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 15:05:12|sync_analyst_data|] Connect to local raw database
+[2016-07-15 15:05:45|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 15:05:45|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 15:05:45|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 15:05:45|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 15:05:45|sync_analyst_data|] Connect to local raw database
+[2016-07-15 15:08:06|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 15:08:06|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 15:08:06|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 15:08:06|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 15:08:06|sync_analyst_data|] Connect to local raw database
+[2016-07-15 15:16:21|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 15:16:21|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 15:16:21|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 15:16:21|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 15:16:21|sync_analyst_data|] Connect to local raw database
+[2016-07-15 15:17:04|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 15:17:04|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 15:17:04|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 15:17:04|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 15:17:04|sync_analyst_data|] Connect to local raw database
+[2016-07-15 15:17:18|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 15:17:18|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 15:17:18|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 15:17:18|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 15:17:18|sync_analyst_data|] Connect to local raw database
+[2016-07-15 15:17:43|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 15:17:43|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 15:17:43|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 15:17:43|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 15:17:43|sync_analyst_data|] Connect to local raw database
+[2016-07-15 15:17:58|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 15:17:58|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 15:17:58|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 15:17:58|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 15:17:58|sync_analyst_data|] Connect to local raw database
+[2016-07-15 15:20:12|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 15:20:12|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 15:20:12|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 15:20:12|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 15:20:12|sync_analyst_data|] Connect to local raw database
+[2016-07-15 15:20:46|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 15:20:46|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 15:20:46|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 15:20:46|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 15:20:46|sync_analyst_data|] Connect to local raw database
+[2016-07-15 15:21:14|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 15:21:14|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 15:21:14|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 15:21:14|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 15:21:14|sync_analyst_data|] Connect to local raw database
+[2016-07-15 15:21:52|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 15:21:52|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 15:21:52|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 15:21:52|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 15:21:52|sync_analyst_data|] Connect to local raw database
+[2016-07-15 15:22:31|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 15:22:31|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 15:22:31|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 15:22:31|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 15:22:31|sync_analyst_data|] Connect to local raw database
+[2016-07-15 15:24:16|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 15:24:16|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 15:24:16|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 15:24:16|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 15:24:16|sync_analyst_data|] Connect to local raw database
+[2016-07-15 15:25:02|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 15:25:02|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 15:25:02|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 15:25:02|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 15:25:02|sync_analyst_data|] Connect to local raw database
+[2016-07-15 15:25:36|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 15:25:36|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 15:25:36|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 15:25:36|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 15:25:36|sync_analyst_data|] Connect to local raw database
+[2016-07-15 15:25:49|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 15:25:49|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 15:25:49|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 15:25:49|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 15:25:49|sync_analyst_data|] Connect to local raw database
+[2016-07-15 15:26:32|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 15:26:32|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 15:26:32|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 15:26:32|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 15:26:32|sync_analyst_data|] Connect to local raw database
+[2016-07-15 15:26:48|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 15:26:48|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 15:26:48|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 15:26:48|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 15:26:48|sync_analyst_data|] Connect to local raw database
+[2016-07-15 15:27:23|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 15:27:23|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 15:27:23|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 15:27:23|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 15:27:23|sync_analyst_data|] Connect to local raw database
+[2016-07-15 15:28:40|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 15:28:40|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 15:28:40|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 15:28:40|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 15:28:40|sync_analyst_data|] Connect to local raw database
+[2016-07-15 17:12:46|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:12:46|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 17:12:46|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:12:46|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 17:12:46|sync_analyst_data|] Connect to local raw database
+[2016-07-15 17:15:05|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:15:05|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 17:15:05|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:15:05|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 17:15:05|sync_analyst_data|] Connect to local raw database
+[2016-07-15 17:15:27|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:15:27|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 17:15:27|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:15:27|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 17:15:27|sync_analyst_data|] Connect to local raw database
+[2016-07-15 17:16:00|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:16:00|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 17:16:00|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:16:00|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 17:16:00|sync_analyst_data|] Connect to local raw database
+[2016-07-15 17:16:44|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:16:44|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 17:16:44|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:16:44|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 17:16:44|sync_analyst_data|] Connect to local raw database
+[2016-07-15 17:17:04|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:17:04|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 17:17:04|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:17:04|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 17:17:04|sync_analyst_data|] Connect to local raw database
+[2016-07-15 17:17:37|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:17:37|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 17:17:37|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:17:37|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 17:17:37|sync_analyst_data|] Connect to local raw database
+[2016-07-15 17:32:13|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:32:13|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 17:32:13|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:32:13|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 17:32:13|sync_analyst_data|] Connect to local raw database
+[2016-07-15 17:32:37|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:32:37|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 17:32:37|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:32:37|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 17:32:37|sync_analyst_data|] Connect to local raw database
+[2016-07-15 17:33:01|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:33:01|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 17:33:01|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:33:01|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 17:33:01|sync_analyst_data|] Connect to local raw database
+[2016-07-15 17:33:37|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:33:37|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 17:33:37|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:33:37|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 17:33:37|sync_analyst_data|] Connect to local raw database
+[2016-07-15 17:34:59|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:34:59|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 17:34:59|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:34:59|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 17:34:59|sync_analyst_data|] Connect to local raw database
+[2016-07-15 17:35:13|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:35:13|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 17:35:13|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:35:13|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 17:35:13|sync_analyst_data|] Connect to local raw database
+[2016-07-15 17:36:57|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:36:57|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 17:36:57|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:36:57|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 17:36:57|sync_analyst_data|] Connect to local raw database
+[2016-07-15 17:41:28|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:41:28|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 17:41:28|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:41:28|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 17:41:28|sync_analyst_data|] Connect to local raw database
+[2016-07-15 17:43:03|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:43:03|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 17:43:03|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:43:03|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 17:43:03|sync_analyst_data|] Connect to local raw database
+[2016-07-15 17:44:24|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:44:24|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 17:44:24|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:44:24|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 17:44:24|sync_analyst_data|] Connect to local raw database
+[2016-07-15 17:49:06|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:49:06|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 17:49:06|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:49:06|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 17:49:06|sync_analyst_data|] Connect to local raw database
+[2016-07-15 17:50:02|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:50:02|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 17:50:02|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:50:02|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 17:50:02|sync_analyst_data|] Connect to local raw database
+[2016-07-15 17:51:13|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:51:13|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 17:51:13|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:51:13|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 17:51:13|sync_analyst_data|] Connect to local raw database
+[2016-07-15 17:51:47|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:51:47|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 17:51:47|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:51:47|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 17:51:47|sync_analyst_data|] Connect to local raw database
+[2016-07-15 17:52:56|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:52:56|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 17:52:56|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:52:56|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 17:52:56|sync_analyst_data|] Connect to local raw database
+[2016-07-15 17:53:11|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:53:11|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 17:53:11|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:53:11|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 17:53:11|sync_analyst_data|] Connect to local raw database
+[2016-07-15 17:53:39|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:53:39|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 17:53:39|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:53:39|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 17:53:39|sync_analyst_data|] Connect to local raw database
+[2016-07-15 17:54:00|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:54:00|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 17:54:00|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:54:00|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 17:54:00|sync_analyst_data|] Connect to local raw database
+[2016-07-15 17:54:20|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:54:20|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 17:54:20|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:54:20|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 17:54:20|sync_analyst_data|] Connect to local raw database
+[2016-07-15 17:55:27|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:55:27|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 17:55:27|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:55:27|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 17:55:27|sync_analyst_data|] Connect to local raw database
+[2016-07-15 17:55:38|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:55:38|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 17:55:38|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:55:38|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 17:55:38|sync_analyst_data|] Connect to local raw database
+[2016-07-15 17:56:16|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:56:16|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 17:56:16|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:56:16|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 17:56:16|sync_analyst_data|] Connect to local raw database
+[2016-07-15 17:56:42|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:56:42|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 17:56:42|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 17:56:42|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 17:56:42|sync_analyst_data|] Connect to local raw database
+[2016-07-15 18:05:16|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 18:05:16|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 18:05:16|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 18:05:16|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 18:05:16|sync_analyst_data|] Connect to local raw database
+[2016-07-15 18:06:09|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 18:06:09|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 18:06:09|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 18:06:09|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 18:06:09|sync_analyst_data|] Connect to local raw database
+[2016-07-15 18:06:44|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 18:06:44|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 18:06:44|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 18:06:44|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 18:06:44|sync_analyst_data|] Connect to local raw database
+[2016-07-15 18:07:16|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 18:07:16|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 18:07:16|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 18:07:16|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 18:07:16|sync_analyst_data|] Connect to local raw database
+[2016-07-15 18:08:07|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 18:08:07|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 18:08:07|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 18:08:07|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 18:08:07|sync_analyst_data|] Connect to local raw database
+[2016-07-15 18:08:24|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 18:08:24|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 18:08:24|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 18:08:24|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 18:08:24|sync_analyst_data|] Connect to local raw database
+[2016-07-15 18:09:03|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 18:09:03|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 18:09:03|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 18:09:03|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 18:09:03|sync_analyst_data|] Connect to local raw database
+[2016-07-15 18:09:32|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 18:09:32|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 18:09:32|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 18:09:32|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 18:09:32|sync_analyst_data|] Connect to local raw database
+[2016-07-15 18:10:03|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 18:10:03|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 18:10:03|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 18:10:03|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 18:10:03|sync_analyst_data|] Connect to local raw database
+[2016-07-15 18:10:18|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 18:10:18|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 18:10:18|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 18:10:18|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 18:10:18|sync_analyst_data|] Connect to local raw database
+[2016-07-15 18:11:00|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 18:11:00|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 18:11:00|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 18:11:00|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 18:11:00|sync_analyst_data|] Connect to local raw database
+[2016-07-15 18:11:20|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 18:11:20|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 18:11:20|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 18:11:20|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 18:11:20|sync_analyst_data|] Connect to local raw database
+[2016-07-15 20:25:37|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 20:25:37|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 20:25:37|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 20:25:37|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 20:25:37|sync_analyst_data|] Connect to local raw database
+[2016-07-15 20:26:38|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 20:26:38|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 20:26:38|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 20:26:38|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 20:26:38|sync_analyst_data|] Connect to local raw database
+[2016-07-15 20:26:55|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 20:26:55|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-15 20:26:55|sync_analyst_data|] Initiate class QuantLib
+[2016-07-15 20:26:55|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-15 20:26:55|sync_analyst_data|] Connect to local raw database
+[2016-07-18 10:07:23|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 10:07:23|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 10:07:23|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 10:07:23|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 10:07:23|sync_analyst_data|] Connect to local raw database
+[2016-07-18 10:08:13|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 10:08:13|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 10:08:13|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 10:08:13|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 10:08:13|sync_analyst_data|] Connect to local raw database
+[2016-07-18 10:38:50|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 10:38:50|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 10:38:50|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 10:38:50|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 10:38:50|sync_analyst_data|] Connect to local raw database
+[2016-07-18 10:39:20|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 10:39:20|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 10:39:20|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 10:39:20|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 10:39:20|sync_analyst_data|] Connect to local raw database
+[2016-07-18 10:43:34|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 10:43:34|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 10:43:34|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 10:43:34|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 10:43:34|sync_analyst_data|] Connect to local raw database
+[2016-07-18 10:45:05|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 10:45:05|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 10:45:05|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 10:45:05|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 10:45:05|sync_analyst_data|] Connect to local raw database
+[2016-07-18 10:46:33|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 10:46:33|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 10:46:33|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 10:46:33|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 10:46:33|sync_analyst_data|] Connect to local raw database
+[2016-07-18 10:48:07|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 10:48:07|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 10:48:07|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 10:48:07|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 10:48:07|sync_analyst_data|] Connect to local raw database
+[2016-07-18 10:48:37|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 10:48:37|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 10:48:37|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 10:48:37|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 10:48:37|sync_analyst_data|] Connect to local raw database
+[2016-07-18 10:49:24|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 10:49:24|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 10:49:24|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 10:49:24|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 10:49:24|sync_analyst_data|] Connect to local raw database
+[2016-07-18 10:56:57|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 10:56:57|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 10:56:57|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 10:56:57|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 10:56:57|sync_analyst_data|] Connect to local raw database
+[2016-07-18 10:57:25|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 10:57:25|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 10:57:25|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 10:57:25|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 10:57:25|sync_analyst_data|] Connect to local raw database
+[2016-07-18 10:57:49|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 10:57:49|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 10:57:49|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 10:57:49|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 10:57:49|sync_analyst_data|] Connect to local raw database
+[2016-07-18 11:06:28|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:06:28|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 11:06:28|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:06:28|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 11:06:28|sync_analyst_data|] Connect to local raw database
+[2016-07-18 11:06:52|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:06:52|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 11:06:52|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:06:52|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 11:06:52|sync_analyst_data|] Connect to local raw database
+[2016-07-18 11:08:27|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:08:27|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 11:08:27|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:08:27|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 11:08:27|sync_analyst_data|] Connect to local raw database
+[2016-07-18 11:09:01|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:09:01|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 11:09:01|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:09:01|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 11:09:01|sync_analyst_data|] Connect to local raw database
+[2016-07-18 11:10:00|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:10:00|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 11:10:00|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:10:00|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 11:10:00|sync_analyst_data|] Connect to local raw database
+[2016-07-18 11:10:25|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:10:25|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 11:10:25|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:10:25|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 11:10:25|sync_analyst_data|] Connect to local raw database
+[2016-07-18 11:10:56|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:10:56|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 11:10:56|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:10:56|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 11:10:56|sync_analyst_data|] Connect to local raw database
+[2016-07-18 11:13:37|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:13:37|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 11:13:37|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:13:37|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 11:13:37|sync_analyst_data|] Connect to local raw database
+[2016-07-18 11:15:28|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:15:28|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 11:15:28|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:15:28|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 11:15:28|sync_analyst_data|] Connect to local raw database
+[2016-07-18 11:15:52|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:15:52|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 11:15:52|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:15:52|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 11:15:52|sync_analyst_data|] Connect to local raw database
+[2016-07-18 11:16:50|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:16:50|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 11:16:50|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:16:50|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 11:16:50|sync_analyst_data|] Connect to local raw database
+[2016-07-18 11:17:08|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:17:08|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 11:17:08|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:17:08|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 11:17:08|sync_analyst_data|] Connect to local raw database
+[2016-07-18 11:17:27|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:17:27|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 11:17:27|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:17:27|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 11:17:27|sync_analyst_data|] Connect to local raw database
+[2016-07-18 11:18:07|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:18:07|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 11:18:07|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:18:07|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 11:18:07|sync_analyst_data|] Connect to local raw database
+[2016-07-18 11:24:28|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:24:28|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 11:24:28|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:24:28|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 11:24:28|sync_analyst_data|] Connect to local raw database
+[2016-07-18 11:24:42|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:24:42|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 11:24:42|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:24:42|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 11:24:42|sync_analyst_data|] Connect to local raw database
+[2016-07-18 11:25:53|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:25:53|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 11:25:53|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:25:53|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 11:25:53|sync_analyst_data|] Connect to local raw database
+[2016-07-18 11:26:06|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:26:06|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 11:26:06|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:26:06|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 11:26:06|sync_analyst_data|] Connect to local raw database
+[2016-07-18 11:26:27|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:26:27|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 11:26:27|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:26:27|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 11:26:27|sync_analyst_data|] Connect to local raw database
+[2016-07-18 11:28:53|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:28:53|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 11:28:53|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:28:53|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 11:28:53|sync_analyst_data|] Connect to local raw database
+[2016-07-18 11:29:10|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:29:10|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 11:29:10|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:29:10|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 11:29:10|sync_analyst_data|] Connect to local raw database
+[2016-07-18 11:29:36|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:29:36|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 11:29:36|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:29:36|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 11:29:36|sync_analyst_data|] Connect to local raw database
+[2016-07-18 11:30:13|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:30:13|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 11:30:13|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:30:13|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 11:30:13|sync_analyst_data|] Connect to local raw database
+[2016-07-18 11:32:25|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:32:25|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 11:32:25|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:32:25|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 11:32:25|sync_analyst_data|] Connect to local raw database
+[2016-07-18 11:32:56|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:32:56|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 11:32:56|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:32:56|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 11:32:56|sync_analyst_data|] Connect to local raw database
+[2016-07-18 11:33:19|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:33:19|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 11:33:19|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:33:19|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 11:33:19|sync_analyst_data|] Connect to local raw database
+[2016-07-18 11:34:01|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:34:01|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 11:34:01|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:34:01|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 11:34:01|sync_analyst_data|] Connect to local raw database
+[2016-07-18 11:34:15|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:34:15|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 11:34:15|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:34:15|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 11:34:15|sync_analyst_data|] Connect to local raw database
+[2016-07-18 11:34:32|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:34:32|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 11:34:32|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:34:32|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 11:34:32|sync_analyst_data|] Connect to local raw database
+[2016-07-18 11:34:45|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:34:45|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 11:34:45|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:34:45|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 11:34:45|sync_analyst_data|] Connect to local raw database
+[2016-07-18 11:35:03|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:35:03|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 11:35:03|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:35:03|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 11:35:03|sync_analyst_data|] Connect to local raw database
+[2016-07-18 11:36:02|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:36:02|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 11:36:02|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:36:02|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 11:36:02|sync_analyst_data|] Connect to local raw database
+[2016-07-18 11:36:31|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:36:31|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 11:36:31|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:36:31|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 11:36:31|sync_analyst_data|] Connect to local raw database
+[2016-07-18 11:37:05|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:37:05|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 11:37:05|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:37:05|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 11:37:05|sync_analyst_data|] Connect to local raw database
+[2016-07-18 11:37:37|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:37:37|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 11:37:37|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:37:37|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 11:37:37|sync_analyst_data|] Connect to local raw database
+[2016-07-18 11:38:40|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:38:40|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 11:38:40|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:38:40|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 11:38:40|sync_analyst_data|] Connect to local raw database
+[2016-07-18 11:39:47|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:39:47|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 11:39:47|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:39:47|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 11:39:47|sync_analyst_data|] Connect to local raw database
+[2016-07-18 11:41:49|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:41:49|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 11:41:49|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:41:49|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 11:41:49|sync_analyst_data|] Connect to local raw database
+[2016-07-18 11:42:41|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:42:41|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 11:42:41|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:42:41|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 11:42:41|sync_analyst_data|] Connect to local raw database
+[2016-07-18 11:44:51|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:44:51|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 11:44:51|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:44:51|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 11:44:51|sync_analyst_data|] Connect to local raw database
+[2016-07-18 11:46:03|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:46:03|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 11:46:03|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:46:03|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 11:46:03|sync_analyst_data|] Connect to local raw database
+[2016-07-18 11:46:42|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:46:42|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 11:46:42|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:46:42|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 11:46:42|sync_analyst_data|] Connect to local raw database
+[2016-07-18 11:47:00|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:47:00|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 11:47:00|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:47:00|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 11:47:00|sync_analyst_data|] Connect to local raw database
+[2016-07-18 11:47:27|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:47:27|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 11:47:27|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:47:27|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 11:47:27|sync_analyst_data|] Connect to local raw database
+[2016-07-18 11:47:49|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:47:49|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 11:47:49|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:47:49|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 11:47:49|sync_analyst_data|] Connect to local raw database
+[2016-07-18 11:48:23|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:48:23|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 11:48:23|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 11:48:23|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 11:48:23|sync_analyst_data|] Connect to local raw database
+[2016-07-18 12:09:19|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 12:09:19|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 12:09:19|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 12:09:19|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 12:09:19|sync_analyst_data|] Connect to local raw database
+[2016-07-18 12:10:44|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 12:10:44|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 12:10:44|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 12:10:44|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 12:10:44|sync_analyst_data|] Connect to local raw database
+[2016-07-18 12:11:33|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 12:11:33|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 12:11:33|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 12:11:33|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 12:11:33|sync_analyst_data|] Connect to local raw database
+[2016-07-18 12:12:21|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 12:12:21|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 12:12:21|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 12:12:21|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 12:12:21|sync_analyst_data|] Connect to local raw database
+[2016-07-18 12:12:57|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 12:12:57|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 12:12:57|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 12:12:57|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 12:12:57|sync_analyst_data|] Connect to local raw database
+[2016-07-18 12:13:14|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 12:13:14|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 12:13:14|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 12:13:14|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 12:13:14|sync_analyst_data|] Connect to local raw database
+[2016-07-18 12:13:34|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 12:13:34|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 12:13:34|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 12:13:34|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 12:13:34|sync_analyst_data|] Connect to local raw database
+[2016-07-18 15:25:40|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 15:25:40|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 15:25:40|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 15:25:40|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 15:25:40|sync_analyst_data|] Connect to local raw database
+[2016-07-18 15:26:09|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 15:26:09|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 15:26:09|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 15:26:09|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 15:26:09|sync_analyst_data|] Connect to local raw database
+[2016-07-18 15:28:08|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 15:28:08|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 15:28:08|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 15:28:08|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 15:28:08|sync_analyst_data|] Connect to local raw database
+[2016-07-18 15:28:08|sync_analyst_data|] Cannot find security type 'a_share'
+[2016-07-18 15:29:26|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 15:29:26|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 15:29:26|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 15:29:26|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 15:29:26|sync_analyst_data|] Connect to local raw database
+[2016-07-18 15:31:04|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 15:31:04|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 15:31:04|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 15:31:04|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 15:31:04|sync_analyst_data|] Connect to local raw database
+[2016-07-18 15:31:30|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 15:31:30|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 15:31:30|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 15:31:30|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 15:31:30|sync_analyst_data|] Connect to local raw database
+[2016-07-18 15:32:08|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 15:32:08|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 15:32:08|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 15:32:08|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 15:32:08|sync_analyst_data|] Connect to local raw database
+[2016-07-18 15:32:58|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 15:32:58|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 15:32:58|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 15:32:58|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 15:32:58|sync_analyst_data|] Connect to local raw database
+[2016-07-18 15:33:48|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 15:33:48|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 15:33:48|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 15:33:48|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 15:33:48|sync_analyst_data|] Connect to local raw database
+[2016-07-18 15:34:21|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 15:34:21|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 15:34:21|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 15:34:21|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 15:34:21|sync_analyst_data|] Connect to local raw database
+[2016-07-18 15:35:02|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 15:35:02|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 15:35:02|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 15:35:02|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 15:35:02|sync_analyst_data|] Connect to local raw database
+[2016-07-18 15:35:52|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 15:35:52|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 15:35:52|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 15:35:52|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 15:35:52|sync_analyst_data|] Connect to local raw database
+[2016-07-18 15:36:57|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 15:36:57|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 15:36:57|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 15:36:57|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 15:36:57|sync_analyst_data|] Connect to local raw database
+[2016-07-18 15:37:56|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 15:37:56|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 15:37:56|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 15:37:56|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 15:37:56|sync_analyst_data|] Connect to local raw database
+[2016-07-18 16:05:26|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 16:05:26|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 16:05:26|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 16:05:26|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 16:05:26|sync_analyst_data|] Connect to local raw database
+[2016-07-18 16:06:02|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 16:06:02|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 16:06:02|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 16:06:02|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 16:06:02|sync_analyst_data|] Connect to local raw database
+[2016-07-18 16:06:40|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 16:06:40|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 16:06:40|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 16:06:40|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 16:06:40|sync_analyst_data|] Connect to local raw database
+[2016-07-18 16:08:58|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 16:08:58|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 16:08:58|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 16:08:58|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 16:08:58|sync_analyst_data|] Connect to local raw database
+[2016-07-18 16:09:21|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 16:09:21|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 16:09:21|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 16:09:21|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 16:09:21|sync_analyst_data|] Connect to local raw database
+[2016-07-18 16:09:43|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 16:09:43|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 16:09:43|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 16:09:43|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 16:09:43|sync_analyst_data|] Connect to local raw database
+[2016-07-18 16:10:04|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 16:10:04|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 16:10:04|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 16:10:04|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 16:10:04|sync_analyst_data|] Connect to local raw database
+[2016-07-18 16:10:16|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 16:10:16|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-18 16:10:16|sync_analyst_data|] Initiate class QuantLib
+[2016-07-18 16:10:16|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-18 16:10:16|sync_analyst_data|] Connect to local raw database
+[2016-07-19 11:04:01|sync_analyst_data|] Initiate class QuantLib
+[2016-07-19 11:04:01|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-19 11:04:01|sync_analyst_data|] Initiate class QuantLib
+[2016-07-19 11:04:01|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-19 11:04:01|sync_analyst_data|] Connect to local raw database
+[2016-07-19 11:08:39|sync_analyst_data|] Initiate class QuantLib
+[2016-07-19 11:08:39|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-19 11:08:39|sync_analyst_data|] Initiate class QuantLib
+[2016-07-19 11:08:39|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-19 11:08:39|sync_analyst_data|] Connect to local raw database
+[2016-07-19 11:09:30|sync_analyst_data|] Initiate class QuantLib
+[2016-07-19 11:09:30|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-19 11:09:30|sync_analyst_data|] Initiate class QuantLib
+[2016-07-19 11:09:30|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-19 11:09:30|sync_analyst_data|] Connect to local raw database
+[2016-07-19 11:09:45|sync_analyst_data|] Initiate class QuantLib
+[2016-07-19 11:09:45|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-19 11:09:45|sync_analyst_data|] Initiate class QuantLib
+[2016-07-19 11:09:45|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-19 11:09:45|sync_analyst_data|] Connect to local raw database
+[2016-07-19 11:10:50|sync_analyst_data|] Initiate class QuantLib
+[2016-07-19 11:10:50|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-19 11:10:50|sync_analyst_data|] Initiate class QuantLib
+[2016-07-19 11:10:50|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-19 11:10:50|sync_analyst_data|] Connect to local raw database
+[2016-07-19 11:11:09|sync_analyst_data|] Initiate class QuantLib
+[2016-07-19 11:11:09|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-19 11:11:09|sync_analyst_data|] Initiate class QuantLib
+[2016-07-19 11:11:09|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-19 11:11:09|sync_analyst_data|] Connect to local raw database
+[2016-07-19 15:51:03|sync_analyst_data|] Initiate class QuantLib
+[2016-07-19 15:51:03|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-19 15:51:03|sync_analyst_data|] Initiate class QuantLib
+[2016-07-19 15:51:03|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-19 15:51:03|sync_analyst_data|] Connect to local raw database
+[2016-07-19 15:51:23|sync_analyst_data|] Initiate class QuantLib
+[2016-07-19 15:51:23|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-19 15:51:23|sync_analyst_data|] Initiate class QuantLib
+[2016-07-19 15:51:23|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-19 15:51:23|sync_analyst_data|] Connect to local raw database
+[2016-07-19 16:42:43|sync_analyst_data|] Initiate class QuantLib
+[2016-07-19 16:42:43|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-19 16:42:43|sync_analyst_data|] Initiate class QuantLib
+[2016-07-19 16:42:43|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-19 16:42:43|sync_analyst_data|] Connect to local raw database
+[2016-07-19 16:43:55|sync_analyst_data|] Initiate class QuantLib
+[2016-07-19 16:43:55|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-19 16:43:55|sync_analyst_data|] Initiate class QuantLib
+[2016-07-19 16:43:55|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-19 16:43:55|sync_analyst_data|] Connect to local raw database
+[2016-07-19 16:45:16|sync_analyst_data|] Initiate class QuantLib
+[2016-07-19 16:45:16|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-19 16:45:16|sync_analyst_data|] Initiate class QuantLib
+[2016-07-19 16:45:16|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-19 16:45:16|sync_analyst_data|] Connect to local raw database
+[2016-07-19 16:45:50|sync_analyst_data|] Initiate class QuantLib
+[2016-07-19 16:45:50|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-19 16:45:50|sync_analyst_data|] Initiate class QuantLib
+[2016-07-19 16:45:50|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-19 16:45:50|sync_analyst_data|] Connect to local raw database
+[2016-07-19 16:47:10|sync_analyst_data|] Initiate class QuantLib
+[2016-07-19 16:47:10|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-19 16:47:10|sync_analyst_data|] Initiate class QuantLib
+[2016-07-19 16:47:10|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-19 16:47:10|sync_analyst_data|] Connect to local raw database
+[2016-07-19 16:47:37|sync_analyst_data|] Initiate class QuantLib
+[2016-07-19 16:47:37|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-19 16:47:37|sync_analyst_data|] Initiate class QuantLib
+[2016-07-19 16:47:37|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-19 16:47:37|sync_analyst_data|] Connect to local raw database
+[2016-07-19 16:47:55|sync_analyst_data|] Initiate class QuantLib
+[2016-07-19 16:47:55|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-19 16:47:55|sync_analyst_data|] Initiate class QuantLib
+[2016-07-19 16:47:55|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-19 16:47:55|sync_analyst_data|] Connect to local raw database
+[2016-07-19 16:48:34|sync_analyst_data|] Initiate class QuantLib
+[2016-07-19 16:48:34|sync_analyst_data|] Initiate class 'GetHistReturnDist'
+[2016-07-19 16:48:34|sync_analyst_data|] Initiate class QuantLib
+[2016-07-19 16:48:34|sync_analyst_data|] Initiate class 'FetchHistData'
+[2016-07-19 16:48:34|sync_analyst_data|] Connect to local raw database

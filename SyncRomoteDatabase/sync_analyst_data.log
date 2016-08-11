@@ -1,0 +1,73 @@
+[2016-07-11 18:55:00|sync_analyst_data|] initiate program
+[2016-07-11 18:55:00|sync_analyst_data|] connecting to remote database
+[2016-07-11 18:55:00|sync_analyst_data|] connecting to local database
+[2016-07-11 18:55:00|sync_analyst_data|] start to run synchonization, method=update
+[2016-07-11 18:55:00|sync_analyst_data|] start to update table expectation
+[2016-07-11 18:55:00|sync_analyst_data|] drop index of table expectation
+[2016-07-11 18:55:00|sync_analyst_data|] check table expectation
+[2016-07-11 18:55:02|sync_analyst_data|] fetch data and insert to table expectation
+[2016-07-11 18:55:04|sync_analyst_data|] insert or ignore data in 20160708
+[2016-07-11 18:55:04|sync_analyst_data|] query data from remote database, query time 0.319999933243
+[2016-07-11 18:55:04|sync_analyst_data|] create index of table expectation
+[2016-07-11 18:56:44|sync_analyst_data|] initiate program
+[2016-07-11 18:56:44|sync_analyst_data|] connecting to remote database
+[2016-07-11 18:56:44|sync_analyst_data|] connecting to local database
+[2016-07-11 18:56:44|sync_analyst_data|] start to run synchonization, method=update
+[2016-07-11 18:56:44|sync_analyst_data|] start to update table expectation
+[2016-07-11 18:56:44|sync_analyst_data|] drop index of table expectation
+[2016-07-11 18:56:44|sync_analyst_data|] check table expectation
+[2016-07-11 18:56:47|sync_analyst_data|] fetch data and insert to table expectation
+[2016-07-11 18:56:47|sync_analyst_data|] insert or ignore data in 20160708
+[2016-07-11 18:56:47|sync_analyst_data|] query data from remote database, query time 0.302000045776
+[2016-07-11 18:56:47|sync_analyst_data|] create index of table expectation
+[2016-07-11 19:13:48|sync_analyst_data|] Initiate program
+[2016-07-11 19:13:48|sync_analyst_data|] connecting to remote database 'suntime'
+[2016-07-11 19:13:48|sync_analyst_data|] Connected successfully
+[2016-07-11 19:13:48|sync_analyst_data|] Connecting to local database 'rawdata'
+[2016-07-11 19:13:48|sync_analyst_data|] Connected successfully
+[2016-07-11 19:13:48|sync_analyst_data|] Start to run synchonization, method=update
+[2016-07-11 19:13:48|sync_analyst_data|] Update table 'expectation'
+[2016-07-11 19:13:48|sync_analyst_data|] Drop index of table 'expectation'
+[2016-07-11 19:13:48|sync_analyst_data|] Check table 'expectation'
+[2016-07-11 19:13:51|sync_analyst_data|] Fetch data and insert to table 'expectation'
+[2016-07-11 19:13:51|sync_analyst_data|] Replace data in '20160708'
+[2016-07-11 19:13:51|sync_analyst_data|] Query data from remote database, query time 0.302000045776
+[2016-07-11 19:13:51|sync_analyst_data|] Create index of table 'expectation'
+[2016-07-11 19:15:36|sync_analyst_data|] Initiate program
+[2016-07-11 19:15:36|sync_analyst_data|] connecting to remote database 'suntime'
+[2016-07-11 19:15:39|sync_analyst_data|] Connected successfully
+[2016-07-11 19:15:39|sync_analyst_data|] Connecting to local database 'rawdata'
+[2016-07-11 19:15:39|sync_analyst_data|] Connected successfully
+[2016-07-11 19:15:39|sync_analyst_data|] Start to run synchonization, method=update
+[2016-07-11 19:15:39|sync_analyst_data|] Drop index of table 'expectation'
+[2016-07-11 19:15:40|sync_analyst_data|] Check table 'expectation'
+[2016-07-11 19:15:42|sync_analyst_data|] Fetch data and insert to table 'expectation'
+[2016-07-11 19:15:42|sync_analyst_data|] Replace data in '20160708'
+[2016-07-11 19:15:43|sync_analyst_data|] Query data from remote database, query time 0.307999849319
+[2016-07-11 19:15:43|sync_analyst_data|] Create index of table 'expectation'
+[2016-07-11 19:17:04|sync_analyst_data|] Initiate program
+[2016-07-11 19:17:04|sync_analyst_data|] connecting to remote database 'suntime'
+[2016-07-11 19:17:05|sync_analyst_data|] Connected successfully
+[2016-07-11 19:17:05|sync_analyst_data|] Connecting to local database 'rawdata'
+[2016-07-11 19:17:05|sync_analyst_data|] Connected successfully
+[2016-07-11 19:17:05|sync_analyst_data|] Start to run synchonization, method=update
+[2016-07-11 19:17:05|sync_analyst_data|] Update table 'expectation'
+[2016-07-11 19:17:05|sync_analyst_data|] Drop index of table 'expectation'
+[2016-07-11 19:17:05|sync_analyst_data|] Check table 'expectation'
+[2016-07-11 19:17:07|sync_analyst_data|] Fetch data and insert to table 'expectation'
+[2016-07-11 19:17:07|sync_analyst_data|] Replace data in '20160708'
+[2016-07-11 19:17:08|sync_analyst_data|] Query data from remote database, query time 0.309000015259
+[2016-07-11 19:17:08|sync_analyst_data|] Create index of table 'expectation'
+[2016-07-11 22:34:15|sync_analyst_data|] Initiate program
+[2016-07-11 22:34:15|sync_analyst_data|] connecting to remote database 'suntime'
+[2016-07-11 22:34:15|sync_analyst_data|] Connected successfully
+[2016-07-11 22:34:15|sync_analyst_data|] Connecting to local database 'rawdata'
+[2016-07-11 22:34:15|sync_analyst_data|] Connected successfully
+[2016-07-11 22:34:15|sync_analyst_data|] Start to run synchonization, method=update
+[2016-07-11 22:34:15|sync_analyst_data|] Update table 'expectation'
+[2016-07-11 22:34:15|sync_analyst_data|] Drop index of table 'expectation'
+[2016-07-11 22:34:16|sync_analyst_data|] Check table 'expectation'
+[2016-07-11 22:34:18|sync_analyst_data|] Fetch data and insert to table 'expectation'
+[2016-07-11 22:34:53|sync_analyst_data|] Replace data in '20160708'
+[2016-07-11 22:34:53|sync_analyst_data|] Query data from remote database, query time 0.319999933243
+[2016-07-11 22:34:53|sync_analyst_data|] Create index of table 'expectation'

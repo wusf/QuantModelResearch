@@ -1,0 +1,183 @@
+[2016-07-11 18:08:09|test2|] initiate program
+[2016-07-11 18:08:09|test2|] connecting to remote database
+[2016-07-11 18:08:09|test2|] connecting to local database
+[2016-07-11 18:08:09|test2|] start to run synchonization, method=update
+[2016-07-11 18:08:09|test2|] start to update table expectation
+[2016-07-11 18:08:09|test2|] drop index of table expectation
+[2016-07-11 18:08:09|test2|] check table expectation
+[2016-07-11 18:08:09|test2|] create table expectation
+[2016-07-11 18:08:09|test2|] fetch data and insert to table expectation
+[2016-07-11 18:08:09|test2|] insert or ignore data in 20160101
+[2016-07-11 18:08:15|test2|] query data from remote database, query time 5.80599999428
+[2016-07-11 18:08:15|test2|] fetch and insert data from 20160104 to 20160104, fetch time 0.131999969482, insert time 0.0530002117157
+[2016-07-11 18:08:15|test2|] fetch and insert data from 20160104 to 20160105, fetch time 0.0629999637604, insert time 0.0529999732971
+[2016-07-11 18:08:15|test2|] fetch and insert data from 20160105 to 20160106, fetch time 0.115999937057, insert time 0.0469999313354
+[2016-07-11 18:08:16|test2|] fetch and insert data from 20160106 to 20160107, fetch time 0.169000148773, insert time 0.0529999732971
+[2016-07-11 18:08:16|test2|] fetch and insert data from 20160107 to 20160108, fetch time 0.115999937057, insert time 0.0469999313354
+[2016-07-11 18:08:16|test2|] fetch and insert data from 20160108 to 20160111, fetch time 0.0840001106262, insert time 0.0320000648499
+[2016-07-11 18:08:16|test2|] fetch and insert data from 20160111 to 20160112, fetch time 0.0999999046326, insert time 0.0529999732971
+[2016-07-11 18:08:16|test2|] fetch and insert data from 20160112 to 20160113, fetch time 0.100000143051, insert time 0.0469999313354
+[2016-07-11 18:08:16|test2|] fetch and insert data from 20160113 to 20160114, fetch time 0.115999937057, insert time 0.0369999408722
+[2016-07-11 18:08:16|test2|] fetch and insert data from 20160114 to 20160114, fetch time 0.116000175476, insert time 0.0309998989105
+[2016-07-11 18:08:17|test2|] fetch and insert data from 20160114 to 20160115, fetch time 0.121000051498, insert time 0.0479998588562
+[2016-07-11 18:08:18|test2|] fetch and insert data from 20160115 to 20160118, fetch time 1.29200005531, insert time 0.0520000457764
+[2016-07-11 18:08:18|test2|] fetch and insert data from 20160118 to 20160119, fetch time 0.0539999008179, insert time 0.0310001373291
+[2016-07-11 18:08:18|test2|] fetch and insert data from 20160119 to 20160120, fetch time 0.101000070572, insert time 0.0460000038147
+[2016-07-11 18:08:18|test2|] fetch and insert data from 20160120 to 20160121, fetch time 0.0999999046326, insert time 0.0529999732971
+[2016-07-11 18:08:18|test2|] fetch and insert data from 20160121 to 20160122, fetch time 0.069000005722, insert time 0.0469999313354
+[2016-07-11 18:08:19|test2|] fetch and insert data from 20160122 to 20160125, fetch time 0.100000143051, insert time 0.0479998588562
+[2016-07-11 18:11:12|test2|] initiate program
+[2016-07-11 18:11:12|test2|] connecting to remote database
+[2016-07-11 18:11:12|test2|] connecting to local database
+[2016-07-11 18:11:12|test2|] start to run synchonization, method=update
+[2016-07-11 18:11:12|test2|] start to update table expectation
+[2016-07-11 18:11:12|test2|] drop index of table expectation
+[2016-07-11 18:11:12|test2|] check table expectation
+[2016-07-11 18:11:12|test2|] fetch data and insert to table expectation
+[2016-07-11 18:11:12|test2|] insert or ignore data in 20160101
+[2016-07-11 18:11:17|test2|] query data from remote database, query time 4.8630001545
+[2016-07-11 18:11:18|test2|] fetch and insert data from 20160104 to 20160104, fetch time 1.39499998093, insert time 0.0999999046326
+[2016-07-11 18:11:18|test2|] fetch and insert data from 20160104 to 20160105, fetch time 0.0680000782013, insert time 0.0629999637604
+[2016-07-11 18:11:19|test2|] fetch and insert data from 20160105 to 20160106, fetch time 0.519999980927, insert time 0.069000005722
+[2016-07-11 18:11:19|test2|] fetch and insert data from 20160106 to 20160107, fetch time 0.066999912262, insert time 0.0490000247955
+[2016-07-11 18:11:19|test2|] fetch and insert data from 20160107 to 20160108, fetch time 0.100000143051, insert time 0.069000005722
+[2016-07-11 18:11:19|test2|] fetch and insert data from 20160108 to 20160111, fetch time 0.0829999446869, insert time 0.0479998588562
+[2016-07-11 18:11:20|test2|] fetch and insert data from 20160111 to 20160112, fetch time 0.440999984741, insert time 0.0540001392365
+[2016-07-11 18:11:20|test2|] fetch and insert data from 20160112 to 20160113, fetch time 0.0680000782013, insert time 0.0469999313354
+[2016-07-11 18:11:20|test2|] fetch and insert data from 20160113 to 20160114, fetch time 0.115999937057, insert time 0.0380001068115
+[2016-07-11 18:11:20|test2|] fetch and insert data from 20160114 to 20160114, fetch time 0.115000009537, insert time 0.0469999313354
+[2016-07-11 18:11:20|test2|] fetch and insert data from 20160114 to 20160115, fetch time 0.0999999046326, insert time 0.0529999732971
+[2016-07-11 18:11:21|test2|] fetch and insert data from 20160115 to 20160118, fetch time 0.0800001621246, insert time 0.0360000133514
+[2016-07-11 18:11:21|test2|] fetch and insert data from 20160118 to 20160119, fetch time 0.0839998722076, insert time 0.0469999313354
+[2016-07-11 18:11:21|test2|] fetch and insert data from 20160119 to 20160120, fetch time 0.0700001716614, insert time 0.0309998989105
+[2016-07-11 18:11:21|test2|] fetch and insert data from 20160120 to 20160121, fetch time 0.0989999771118, insert time 0.069000005722
+[2016-07-11 18:11:21|test2|] fetch and insert data from 20160121 to 20160122, fetch time 0.047000169754, insert time 0.0529999732971
+[2016-07-11 18:11:21|test2|] fetch and insert data from 20160122 to 20160125, fetch time 0.134999990463, insert time 0.069000005722
+[2016-07-11 18:11:21|test2|] fetch and insert data from 20160125 to 20160126, fetch time 0.0720000267029, insert time 0.0629999637604
+[2016-07-11 18:11:22|test2|] fetch and insert data from 20160126 to 20160126, fetch time 0.0709998607635, insert time 0.0320000648499
+[2016-07-11 18:11:22|test2|] fetch and insert data from 20160126 to 20160127, fetch time 0.117000102997, insert time 0.0529999732971
+[2016-07-11 18:11:22|test2|] fetch and insert data from 20160127 to 20160128, fetch time 0.0869998931885, insert time 0.0620000362396
+[2016-07-11 18:11:22|test2|] fetch and insert data from 20160128 to 20160129, fetch time 0.050999879837, insert time 0.047000169754
+[2016-07-11 18:11:22|test2|] fetch and insert data from 20160129 to 20160201, fetch time 0.0839998722076, insert time 0.0380001068115
+[2016-07-11 18:11:22|test2|] fetch and insert data from 20160201 to 20160202, fetch time 0.095999956131, insert time 0.0510001182556
+[2016-07-11 18:11:22|test2|] fetch and insert data from 20160202 to 20160203, fetch time 0.0529999732971, insert time 0.0469999313354
+[2016-07-11 18:11:22|test2|] fetch and insert data from 20160203 to 20160204, fetch time 0.0999999046326, insert time 0.0529999732971
+[2016-07-11 18:11:23|test2|] fetch and insert data from 20160204 to 20160205, fetch time 0.116000175476, insert time 0.0469999313354
+[2016-07-11 18:11:23|test2|] fetch and insert data from 20160205 to 20160205, fetch time 0.141000032425, insert time 0.0629999637604
+[2016-07-11 18:11:23|test2|] fetch and insert data from 20160205 to 20160215, fetch time 0.137000083923, insert time 0.0469999313354
+[2016-07-11 18:11:23|test2|] fetch and insert data from 20160215 to 20160216, fetch time 0.101000070572, insert time 0.0309998989105
+[2016-07-11 18:11:23|test2|] fetch and insert data from 20160216 to 20160217, fetch time 0.0840001106262, insert time 0.0379998683929
+[2016-07-11 18:11:23|test2|] fetch and insert data from 20160217 to 20160218, fetch time 0.115999937057, insert time 0.047000169754
+[2016-07-11 18:11:24|test2|] fetch and insert data from 20160218 to 20160219, fetch time 0.0520000457764, insert time 0.0629999637604
+[2016-07-11 18:11:24|test2|] fetch and insert data from 20160219 to 20160222, fetch time 0.0369999408722, insert time 0.0469999313354
+[2016-07-11 18:11:24|test2|] fetch and insert data from 20160222 to 20160223, fetch time 0.0540001392365, insert time 0.0460000038147
+[2016-07-11 18:11:24|test2|] fetch and insert data from 20160223 to 20160224, fetch time 0.0709998607635, insert time 0.0670001506805
+[2016-07-11 18:11:24|test2|] fetch and insert data from 20160224 to 20160224, fetch time 0.048999786377, insert time 0.0540001392365
+[2016-07-11 18:11:24|test2|] fetch and insert data from 20160224 to 20160225, fetch time 0.0620000362396, insert time 0.0379998683929
+[2016-07-11 18:11:24|test2|] fetch and insert data from 20160225 to 20160226, fetch time 0.0780000686646, insert time 0.0539999008179
+[2016-07-11 18:11:24|test2|] fetch and insert data from 20160226 to 20160229, fetch time 0.0860002040863, insert time 0.0460000038147
+[2016-07-11 18:11:24|test2|] fetch and insert data from 20160229 to 20160301, fetch time 0.0719997882843, insert time 0.0310001373291
+[2016-07-11 18:11:25|test2|] fetch and insert data from 20160301 to 20160302, fetch time 0.085000038147, insert time 0.0539999008179
+[2016-07-11 18:11:25|test2|] fetch and insert data from 20160302 to 20160303, fetch time 0.0780000686646, insert time 0.069000005722
+[2016-07-11 18:11:25|test2|] fetch and insert data from 20160303 to 20160304, fetch time 0.0529999732971, insert time 0.0469999313354
+[2016-07-11 18:11:25|test2|] fetch and insert data from 20160304 to 20160304, fetch time 0.0840001106262, insert time 0.0469999313354
+[2016-07-11 18:11:25|test2|] fetch and insert data from 20160304 to 20160307, fetch time 0.104000091553, insert time 0.0539999008179
+[2016-07-11 18:11:25|test2|] fetch and insert data from 20160307 to 20160308, fetch time 0.0680000782013, insert time 0.0629999637604
+[2016-07-11 18:11:26|test2|] fetch and insert data from 20160308 to 20160309, fetch time 1.16499996185, insert time 0.0469999313354
+[2016-07-11 18:11:27|test2|] fetch and insert data from 20160309 to 20160310, fetch time 0.200000047684, insert time 0.0540001392365
+[2016-07-11 18:11:27|test2|] fetch and insert data from 20160310 to 20160311, fetch time 0.0469999313354, insert time 0.0520000457764
+[2016-07-11 18:11:27|test2|] fetch and insert data from 20160311 to 20160314, fetch time 0.0629999637604, insert time 0.0529999732971
+[2016-07-11 18:11:27|test2|] fetch and insert data from 20160314 to 20160315, fetch time 0.0699999332428, insert time 0.0469999313354
+[2016-07-11 18:11:27|test2|] fetch and insert data from 20160315 to 20160316, fetch time 0.0840001106262, insert time 0.0469999313354
+[2016-07-11 18:11:27|test2|] fetch and insert data from 20160316 to 20160316, fetch time 0.0840001106262, insert time 0.0379998683929
+[2016-07-11 18:11:27|test2|] fetch and insert data from 20160316 to 20160317, fetch time 0.100000143051, insert time 0.0469999313354
+[2016-07-11 18:11:29|test2|] fetch and insert data from 20160317 to 20160318, fetch time 1.89599990845, insert time 0.0680000782013
+[2016-07-11 18:11:30|test2|] fetch and insert data from 20160318 to 20160321, fetch time 0.383000135422, insert time 0.050999879837
+[2016-07-11 18:11:30|test2|] fetch and insert data from 20160321 to 20160322, fetch time 0.0840001106262, insert time 0.0469999313354
+[2016-07-11 18:11:30|test2|] fetch and insert data from 20160322 to 20160323, fetch time 0.0999999046326, insert time 0.069000005722
+[2016-07-11 18:11:30|test2|] fetch and insert data from 20160323 to 20160324, fetch time 0.100000143051, insert time 0.0529999732971
+[2016-07-11 18:11:30|test2|] fetch and insert data from 20160324 to 20160325, fetch time 0.0999999046326, insert time 0.0469999313354
+[2016-07-11 18:11:31|test2|] fetch and insert data from 20160325 to 20160328, fetch time 0.100000143051, insert time 0.069000005722
+[2016-07-11 18:11:31|test2|] fetch and insert data from 20160328 to 20160328, fetch time 0.0999999046326, insert time 0.0620000362396
+[2016-07-11 18:11:31|test2|] fetch and insert data from 20160328 to 20160329, fetch time 0.085000038147, insert time 0.069000005722
+[2016-07-11 18:11:31|test2|] fetch and insert data from 20160329 to 20160330, fetch time 0.069000005722, insert time 0.0629999637604
+[2016-07-11 18:11:31|test2|] fetch and insert data from 20160330 to 20160331, fetch time 0.0529999732971, insert time 0.0310001373291
+[2016-07-11 18:11:31|test2|] fetch and insert data from 20160331 to 20160401, fetch time 0.0839998722076, insert time 0.069000005722
+[2016-07-11 18:11:31|test2|] fetch and insert data from 20160401 to 20160405, fetch time 0.0780000686646, insert time 0.0539999008179
+[2016-07-11 18:11:32|test2|] fetch and insert data from 20160405 to 20160406, fetch time 0.0710000991821, insert time 0.0629999637604
+[2016-07-11 18:11:32|test2|] fetch and insert data from 20160406 to 20160407, fetch time 0.0539999008179, insert time 0.0620000362396
+[2016-07-11 18:11:32|test2|] fetch and insert data from 20160407 to 20160407, fetch time 0.634999990463, insert time 0.0529999732971
+[2016-07-11 18:11:33|test2|] fetch and insert data from 20160407 to 20160408, fetch time 0.167999982834, insert time 0.047000169754
+[2016-07-11 18:11:33|test2|] fetch and insert data from 20160408 to 20160411, fetch time 0.138000011444, insert time 0.0629999637604
+[2016-07-11 18:11:33|test2|] fetch and insert data from 20160411 to 20160412, fetch time 0.136999845505, insert time 0.0480000972748
+[2016-07-11 18:11:33|test2|] fetch and insert data from 20160412 to 20160413, fetch time 0.0550000667572, insert time 0.0469999313354
+[2016-07-11 18:11:33|test2|] fetch and insert data from 20160413 to 20160414, fetch time 0.101000070572, insert time 0.0309998989105
+[2016-07-11 18:11:33|test2|] fetch and insert data from 20160414 to 20160415, fetch time 0.12299990654, insert time 0.0620000362396
+[2016-07-11 18:11:34|test2|] fetch and insert data from 20160415 to 20160418, fetch time 0.069000005722, insert time 0.069000005722
+[2016-07-11 18:11:34|test2|] fetch and insert data from 20160418 to 20160419, fetch time 0.430000066757, insert time 0.0629999637604
+[2016-07-11 18:11:34|test2|] fetch and insert data from 20160419 to 20160419, fetch time 0.085000038147, insert time 0.0529999732971
+[2016-07-11 18:11:34|test2|] fetch and insert data from 20160419 to 20160420, fetch time 0.0999999046326, insert time 0.0620000362396
+[2016-07-11 18:11:34|test2|] fetch and insert data from 20160420 to 20160421, fetch time 0.069000005722, insert time 0.0540001392365
+[2016-07-11 18:11:35|test2|] fetch and insert data from 20160421 to 20160422, fetch time 0.115999937057, insert time 0.0629999637604
+[2016-07-11 18:11:35|test2|] fetch and insert data from 20160422 to 20160425, fetch time 0.069000005722, insert time 0.0520000457764
+[2016-07-11 18:11:35|test2|] fetch and insert data from 20160425 to 20160426, fetch time 0.101000070572, insert time 0.0469999313354
+[2016-07-11 18:11:36|test2|] fetch and insert data from 20160426 to 20160427, fetch time 0.582000017166, insert time 0.0629999637604
+[2016-07-11 18:11:36|test2|] fetch and insert data from 20160427 to 20160428, fetch time 0.0999999046326, insert time 0.0530002117157
+[2016-07-11 18:11:36|test2|] fetch and insert data from 20160428 to 20160428, fetch time 0.0629999637604, insert time 0.069000005722
+[2016-07-11 18:11:36|test2|] fetch and insert data from 20160428 to 20160429, fetch time 0.069000005722, insert time 0.061999797821
+[2016-07-11 18:11:36|test2|] fetch and insert data from 20160429 to 20160503, fetch time 0.100000143051, insert time 0.0539999008179
+[2016-07-11 18:11:36|test2|] fetch and insert data from 20160503 to 20160504, fetch time 0.146000146866, insert time 0.0529999732971
+[2016-07-11 18:11:36|test2|] fetch and insert data from 20160504 to 20160505, fetch time 0.069000005722, insert time 0.0629999637604
+[2016-07-11 18:11:37|test2|] fetch and insert data from 20160505 to 20160506, fetch time 0.069000005722, insert time 0.0460000038147
+[2016-07-11 18:11:37|test2|] fetch and insert data from 20160506 to 20160509, fetch time 0.200000047684, insert time 0.0539999008179
+[2016-07-11 18:11:38|test2|] fetch and insert data from 20160509 to 20160510, fetch time 1.33200001717, insert time 0.0620000362396
+[2016-07-11 18:11:38|test2|] fetch and insert data from 20160510 to 20160510, fetch time 0.0699999332428, insert time 0.0310001373291
+[2016-07-11 18:11:38|test2|] fetch and insert data from 20160510 to 20160511, fetch time 0.069000005722, insert time 0.0519998073578
+[2016-07-11 18:11:39|test2|] fetch and insert data from 20160511 to 20160512, fetch time 0.0469999313354, insert time 0.069000005722
+[2016-07-11 18:11:39|test2|] fetch and insert data from 20160512 to 20160513, fetch time 0.0309998989105, insert time 0.0529999732971
+[2016-07-11 18:11:41|test2|] fetch and insert data from 20160513 to 20160516, fetch time 1.8900001049, insert time 0.0469999313354
+[2016-07-11 18:11:41|test2|] fetch and insert data from 20160516 to 20160517, fetch time 0.069000005722, insert time 0.069000005722
+[2016-07-11 18:11:41|test2|] fetch and insert data from 20160517 to 20160518, fetch time 0.0620000362396, insert time 0.0529999732971
+[2016-07-11 18:11:41|test2|] fetch and insert data from 20160518 to 20160519, fetch time 0.115999937057, insert time 0.0680000782013
+[2016-07-11 18:11:41|test2|] fetch and insert data from 20160519 to 20160519, fetch time 0.0629999637604, insert time 0.0680000782013
+[2016-07-11 18:11:41|test2|] fetch and insert data from 20160519 to 20160520, fetch time 0.0539999008179, insert time 0.0620000362396
+[2016-07-11 18:11:41|test2|] fetch and insert data from 20160520 to 20160523, fetch time 0.0380001068115, insert time 0.0469999313354
+[2016-07-11 18:11:41|test2|] fetch and insert data from 20160523 to 20160524, fetch time 0.115999937057, insert time 0.0529999732971
+[2016-07-11 18:11:42|test2|] fetch and insert data from 20160524 to 20160525, fetch time 0.085000038147, insert time 0.0620000362396
+[2016-07-11 18:11:42|test2|] fetch and insert data from 20160525 to 20160526, fetch time 0.085000038147, insert time 0.0529999732971
+[2016-07-11 18:11:42|test2|] fetch and insert data from 20160526 to 20160527, fetch time 0.0629999637604, insert time 0.0680000782013
+[2016-07-11 18:11:42|test2|] fetch and insert data from 20160527 to 20160530, fetch time 0.0469999313354, insert time 0.0380001068115
+[2016-07-11 18:11:42|test2|] fetch and insert data from 20160530 to 20160530, fetch time 0.0839998722076, insert time 0.0629999637604
+[2016-07-11 18:11:42|test2|] fetch and insert data from 20160530 to 20160531, fetch time 0.0370001792908, insert time 0.0469999313354
+[2016-07-11 18:11:42|test2|] fetch and insert data from 20160531 to 20160601, fetch time 0.115999937057, insert time 0.069000005722
+[2016-07-11 18:11:43|test2|] fetch and insert data from 20160601 to 20160602, fetch time 0.0840001106262, insert time 0.0629999637604
+[2016-07-11 18:11:43|test2|] fetch and insert data from 20160602 to 20160603, fetch time 0.0999999046326, insert time 0.0529999732971
+[2016-07-11 18:11:43|test2|] fetch and insert data from 20160603 to 20160606, fetch time 0.147000074387, insert time 0.0369999408722
+[2016-07-11 18:11:43|test2|] fetch and insert data from 20160606 to 20160607, fetch time 0.0840001106262, insert time 0.0320000648499
+[2016-07-11 18:11:43|test2|] fetch and insert data from 20160607 to 20160608, fetch time 0.0839998722076, insert time 0.0629999637604
+[2016-07-11 18:11:43|test2|] fetch and insert data from 20160608 to 20160608, fetch time 0.0529999732971, insert time 0.0310001373291
+[2016-07-11 18:11:43|test2|] fetch and insert data from 20160608 to 20160613, fetch time 0.085000038147, insert time 0.0499999523163
+[2016-07-11 18:11:44|test2|] fetch and insert data from 20160613 to 20160614, fetch time 0.101999998093, insert time 0.0320000648499
+[2016-07-11 18:11:44|test2|] fetch and insert data from 20160614 to 20160615, fetch time 0.105000019073, insert time 0.0679998397827
+[2016-07-11 18:11:44|test2|] fetch and insert data from 20160615 to 20160616, fetch time 0.0469999313354, insert time 0.047000169754
+[2016-07-11 18:11:44|test2|] fetch and insert data from 20160616 to 20160617, fetch time 0.0529999732971, insert time 0.0529999732971
+[2016-07-11 18:11:44|test2|] fetch and insert data from 20160617 to 20160620, fetch time 0.0620000362396, insert time 0.0380001068115
+[2016-07-11 18:11:44|test2|] fetch and insert data from 20160620 to 20160621, fetch time 0.0620000362396, insert time 0.0529999732971
+[2016-07-11 18:11:44|test2|] fetch and insert data from 20160621 to 20160621, fetch time 0.0469999313354, insert time 0.0369999408722
+[2016-07-11 18:11:44|test2|] fetch and insert data from 20160621 to 20160622, fetch time 0.100000143051, insert time 0.0629999637604
+[2016-07-11 18:11:44|test2|] fetch and insert data from 20160622 to 20160623, fetch time 0.0539999008179, insert time 0.0620000362396
+[2016-07-11 18:11:45|test2|] fetch and insert data from 20160623 to 20160624, fetch time 0.0529999732971, insert time 0.0680000782013
+[2016-07-11 18:11:45|test2|] fetch and insert data from 20160624 to 20160627, fetch time 0.0629999637604, insert time 0.0529999732971
+[2016-07-11 18:11:45|test2|] fetch and insert data from 20160627 to 20160628, fetch time 0.116000175476, insert time 0.0639998912811
+[2016-07-11 18:11:45|test2|] fetch and insert data from 20160628 to 20160629, fetch time 0.0520000457764, insert time 0.0490000247955
+[2016-07-11 18:11:46|test2|] fetch and insert data from 20160629 to 20160630, fetch time 0.644999980927, insert time 0.0620000362396
+[2016-07-11 18:11:46|test2|] fetch and insert data from 20160630 to 20160630, fetch time 0.647000074387, insert time 0.0629999637604
+[2016-07-11 18:11:47|test2|] fetch and insert data from 20160630 to 20160701, fetch time 0.0529999732971, insert time 0.0629999637604
+[2016-07-11 18:11:47|test2|] fetch and insert data from 20160701 to 20160704, fetch time 0.0529999732971, insert time 0.047000169754
+[2016-07-11 18:11:47|test2|] fetch and insert data from 20160704 to 20160705, fetch time 0.0679998397827, insert time 0.0320000648499
+[2016-07-11 18:11:47|test2|] fetch and insert data from 20160705 to 20160706, fetch time 0.085000038147, insert time 0.069000005722
+[2016-07-11 18:11:47|test2|] fetch and insert data from 20160706 to 20160707, fetch time 0.0460000038147, insert time 0.0539999008179
+[2016-07-11 18:11:47|test2|] fetch and insert data from 20160707 to 20160708, fetch time 0.0840001106262, insert time 0.0620000362396
+[2016-07-11 18:11:47|test2|] fetch and insert data from 20160708 to 20160708, fetch time 0.0539999008179, insert time 0.0469999313354
+[2016-07-11 18:11:47|test2|] fetch and insert data from 20160708 to 20160708, fetch time 0.0, insert time 0.0
+[2016-07-11 18:11:47|test2|] create index of table expectation
