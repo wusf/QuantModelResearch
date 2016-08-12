@@ -18,22 +18,22 @@ dbinfo_cfg_path = 'dbinfo.cfg'
 start_date = '20070101'
 procfin = pf.ProcFinancialData(start_date, dbinfo_cfg_path, mylog)
 procfin.load_local_db_into_memory()
-procfin._get_financial_item_algos('financial_item_algos.cfg')
-print procfin.fin_item_names
+#procfin._get_financial_item_algos('financial_item_algos.cfg')
+procfin.create_db_for_processed_data('financial_item_algos.cfg', 'processed_financial_data')
 
 qts = procfin._get_past_fin_quarters('20151231', 8)
 print qts
 
-procfin.find_all_stock_codes()
+#procfin.find_all_stock_codes()
 
 tm1 = time.time()
-procfin.find_days_when_data_change()
+#procfin.find_days_when_data_change()
 tm2 = time.time()
 print tm2-tm1
 
 
 #procfin.process_concurrent()
-procfin.process()
+#procfin.process()
 import sqlite3 
 
 sqlite3.Cache

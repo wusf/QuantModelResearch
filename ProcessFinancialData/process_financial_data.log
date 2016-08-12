@@ -897,3 +897,9 @@
 [2016-08-11 16:43:44|process_financial_data|] Find all stock codes
 [2016-08-11 16:43:44|process_financial_data|] Find days when financial data announced
 [2016-08-11 16:44:24|process_financial_data|] Start to process financial data
+[2016-08-12 15:52:55|process_financial_data|] Initiate class QuantLib
+[2016-08-12 15:52:55|process_financial_data|] Initiate class 'ProcFinancialData'
+[2016-08-12 15:54:58|process_financial_data|] Initiate class QuantLib
+[2016-08-12 15:54:58|process_financial_data|] Initiate class 'ProcFinancialData'
+[2016-08-12 15:56:03|process_financial_data|] Initiate class QuantLib
+[2016-08-12 15:56:03|process_financial_data|] Initiate class 'ProcFinancialData'
